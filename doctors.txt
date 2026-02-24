@@ -1,0 +1,13 @@
+[
+{name:dr anubhav,id:1,age:20,phone:7355026966,room:125},
+{name:Dr. Rajesh Kumar,id:2,age:45,phone:9876543210,room:201},
+{name:Dr. Priya Singh,id:3,age:38,phone:9876543211,room:202},
+{name:Dr. Amit Patel,id:4,age:42,phone:9876543212,room:203},
+{name:Dr. Neha Sharma,id:5,age:35,phone:9876543213,room:204},
+{name:Dr. Vikram Verma,id:6,age:50,phone:9876543214,room:205},
+{name:Dr. Sneha Gupta,id:7,age:40,phone:9876543215,room:206},
+{name:Dr. Arjun Das,id:8,age:48,phone:9876543216,room:207},
+{name:Dr. Pooja Yadav,id:9,age:36,phone:9876543217,room:208},
+{name:Dr. Rohan Negi,id:10,age:44,phone:9876543218,room:209},
+{name:Dr. Divya Kumar,id:11,age:39,phone:9876543219,room:210}
+]
